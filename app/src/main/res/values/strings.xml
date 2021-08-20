@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TemperatureCalculator</string>
+    <string name="tempInput">Enter the Temperature...</string>
+    <string name="celciusBtn">Celcius</string>
+    <string name="fahrenhiteBtn">Fahrenhite</string>
+    <string name="calculateBtn">Calculate</string>
+</resources>
